@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+anthropic
+python-dotenv
+pydantic
+pydantic-settings
+jinja2
+httpx
+python-slugify
+pytest
+pytest-asyncio

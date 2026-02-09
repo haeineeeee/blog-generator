@@ -1,0 +1,5 @@
+키워드: {{ keyword }}
+{% if tone %}톤앤매너: {{ tone }}{% endif %}
+{% if language %}언어: {{ language }}{% endif %}
+
+위 키워드에 대한 블로그 글 아웃라인을 작성해주세요.
